@@ -1,4 +1,4 @@
 {
-  "mongoURI": "localhost",
+  "mongoURI": "mongodb+srv://admin:admin@it-ticketing-system-6vwga.mongodb.net/TAI-Helpdesk?retryWrites=true&w=majority",
   "jwtSecret": "jmjaro-dev"
 }
