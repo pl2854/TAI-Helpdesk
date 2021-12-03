@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://admin:admin@tai-helpdesk.rvpaa.mongodb.net/TAIhelpdesk?retryWrites=true&w=majority",
-  "jwtSecret": "leivo-dev"
+  "jwtSecret": "jmjaro-dev"
 }
