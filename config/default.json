@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://admin:admin@it-ticketing-system-6vwga.mongodb.net/TAI-Helpdesk?retryWrites=true&w=majority",
-  "jwtSecret": "jmjaro-dev"
+  "mongoURI": "mongodb+srv://admin:admin@cluster0.rvpaa.mongodb.net/test?authSource=admin&replicaSet=atlas-lf02w9-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
+  "jwtSecret": "leivo-dev"
 }
