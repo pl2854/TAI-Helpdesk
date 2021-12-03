@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://admin:admin@cluster0.rvpaa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://admin:admin@cluster0.rvpaa.mongodb.net/test?authSource=admin&replicaSet=atlas-lf02w9-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
   "jwtSecret": "leivo-dev"
 }
